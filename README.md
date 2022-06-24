@@ -1,4 +1,7 @@
-# Histogram and Histogram Equalization of an image
+### EX NO: 02
+### DATE:
+# <p align="center">HISTOGRAM EQUALIZATION OF AN IMAGE</p>
+
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -22,9 +25,10 @@ Equalize the grayscale image.
 Display the grayscale image
 
 ## Program:
-
+```
 ### Developed By: N Sandhya Charu
 ### Register Number: 212220230041
+```
 ```python3
 import cv2
 import matplotlib.pyplot as plt
