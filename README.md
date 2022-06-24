@@ -1,4 +1,4 @@
-### EX NO: 02
+### EX NO: 04
 ### DATE:
 # <p align="center">HISTOGRAM EQUALIZATION OF AN IMAGE</p>
 
